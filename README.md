@@ -12,7 +12,7 @@ representa a camada de apresentação, que é responsável por exibir os dados a
 ## Controller
 representa a camada de controle, que é responsável por gerenciar as interações entre o usuário e o sistema. Ele é o intermediário entre a camada de apresentação e a camada de modelo.
 
-![](https://www.usandopy.com/media/uploads/2023/03/22/pt-cover-website-22.png)           
+![grafico](https://www.usandopy.com/media/uploads/2023/03/22/pt-cover-website-22.png)           
 
 ## Separação clara das responsabilidades
 O MVC divide as responsabilidades do aplicativo em camadas distintas, o que facilita o desenvolvimento, teste e manutenção do software. Cada camada tem responsabilidades bem definidas, tornando o código mais organizado e legível.
